@@ -49,6 +49,6 @@ title: About me
 > [!tip] **保持沟通** 欢迎通过以下方式找到我。
 
 - Email: master@frankwkd2026.dpdns.org
-- Github: [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)(FrankWkd-Pro)](https://github.com/FrankWkd-Pro) 
+- Github: [FrankWkd-Pro](https://github.com/FrankWkd-Pro)
 - Telegram: tg@frankwkd_pro
 ---
