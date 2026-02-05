@@ -5,49 +5,50 @@ title: About me
 
 <div style="text-align: center; margin-top: 2rem;">
   <h1 style="font-size: 3rem; background: linear-gradient(90deg, #2563eb, #93c5fd); -webkit-background-clip: text; -webkit-text-fill-color: transparent; filter: drop-shadow(0 0 10px rgba(37, 99, 235, 0.3));">
-    FRANKWKD-PRO
+    FrankWkd's Studio
   </h1>
-  <p style="font-family: 'Fira Code', monospace; opacity: 0.8;">> System.status: Online | Logic: C++ / Python / Rust</p>
+  <p style="font-family: 'Fira Code', monospace; opacity: 0.8;">> Love loves to love love.</p>
 </div>
 
 ---
 # Welcome to My Blog!🎉
+## 🤔 About Me
+- Student & Developer
+- 喜欢研究新事物，热衷于折腾！
+
 ## 🛠️ Stack & Expertise
 
-| Category      | Skills                               |
-| :------------ | :----------------------------------- |
-| **OS**        | Linux Mint, Arch Linux, Ubuntu       |
-| **Languages** | C++, Python, Rust, TypeScript, LaTeX |
-| **Tools**     | Vim, Git, Cloudflare,                |
-| **AI**        | Gemini, Claude                       |
-| **Workflow**  | Antigravity, Obsidian                |
+| Category      | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| :------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Platform**  | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)![Arch](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)![Mint](https://img.shields.io/badge/-Linux%20Mint-fab387?style=flat-square&logo=linux-mint&logoColor=black)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Languages** | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)                                                                                                                                      |
+| **Tools**     | ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)![Luogu](https://img.shields.io/badge/-Luogu-3498DB?style=flat-square&logo=codeforces&logoColor=white) |
+| **AI**        | ![Gemini](https://img.shields.io/badge/-Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white)![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white)![DeepSeek](https://img.shields.io/badge/-DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)![Grok](https://img.shields.io/badge/-Grok-000000?style=flat-square&logo=xai&logoColor=white)![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)![Antigravity](https://img.shields.io/badge/-Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)                                                                                                                                                                                                                                                                                                             |
 
 ---
 
-## 🏗️ Active Projects
-* **CDK Management System**: 基于 Cloudflare Worker 的分发系统。
-* **Telegram Gemini Bot**: 自动化响应与订阅管理机器人。
-* **Linux Setup**: 针对旧版 iMac x64 的 Linux Mint 深度定制。
-* [**Mail**](https://frankwkd2026.dpdns.org) : 基于开源项目二次开发的临时邮箱系统
-* 
+## 🏗️ Projects
+* 🛵 **CDK Management System**: 基于 Cloudflare Worker 的分发系统。
+* 🤖 **Telegram Gemini Bot**: 基于 GeminiAPI 自动化响应的 AI 机器人。
+* 🖥️ **Linux Setup**: 针对旧版 iMac x64 的 Linux Mint 深度定制。
+* 📝 [**Mail**](https://frankwkd2026.dpdns.org): 基于开源项目二次开发的临时邮箱系统
+* ✂️ [Pastebin](https://paste.frankwkd2026.dpdns.org):  加密 markdown 剪贴板
+* 👉 [Url Shorten](https://u.frankwkd2026.dpdns.org): 短链接生成器。
+* 📊 `Private`[Github Download Agent](https://gh-agent.frankwkd2026.dpdns.org/): Github 文件下载 CDN 加速
+* 🕸️ `Private`[CF Edge Node](https://sub.frankwkd2026.dpdns.org/): 利用 CF 边缘节点代理流量并声生成节点
+* 🔮 `Private`[Sublink Pro](http://35.212.138.172:8000/dashboard/default): 基于开源项目二次开发的订阅管理系统&节点分发系统，由 GCP 托管。
+* 🛡️ [Website Proxy](https://proxy.frankwkd2026.dpdns.org/): 使用 Cloudflare Workers 进行网站反代
+* 👀 `Private`[云服务器探针](https://status.frankwkd2026.dpdns.org): 利用 Beszel 框架开发的探针&资源监控，使用 Cloudflared Tunnel 进行端口转发。
+* 📜 [Personal Blog](https://blog.frankwkd2026.dpdns.org): 基于 Quartz 4 框架开发的博客网站
+
+> [!warning] 已经全域部署 Cloudflare Turnstile 攻击防护！
 
 ---
-### 🌐 社交与平台 (Social & Platforms)
+## Contact With Me
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+> [!tip] **保持沟通** 欢迎通过以下方式找到我。
 
-<a href="[https://github.com/FrankWkd-Pro](https://github.com/FrankWkd-Pro)" target="_blank" style="text-decoration: none;"> <div style="background: rgba(36, 41, 47, 0.4); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 1.5rem; text-align: center; transition: all 0.3s ease;" onmouseover="this.style.borderColor='#24292f'; this.style.boxShadow='0 0 20px rgba(36, 41, 47, 0.4)';" onmouseout="this.style.borderColor='rgba(255, 255, 255, 0.1)'; this.style.boxShadow='none';"> <div style="font-size: 2rem; margin-bottom: 0.5rem;">⚡️</div> <div style="font-weight: bold; color: var(--light);">GitHub</div> <div style="font-size: 0.8rem; opacity: 0.6;">@FrankWkd-Pro</div> </div> </a>
-
-<a href="[https://codeforces.com/profile/FrankWkd](https://www.google.com/search?q=https://codeforces.com/profile/FrankWkd)" target="_blank" style="text-decoration: none;"> <div style="background: rgba(255, 211, 0, 0.1); border: 1px solid rgba(255, 211, 0, 0.2); border-radius: 12px; padding: 1.5rem; text-align: center; transition: all 0.3s ease;" onmouseover="this.style.borderColor='#ffd300'; this.style.boxShadow='0 0 20px rgba(255, 211, 0, 0.2)';" onmouseout="this.style.borderColor='rgba(255, 211, 0, 0.2)'; this.style.boxShadow='none';"> <div style="font-size: 2rem; margin-bottom: 0.5rem;">📊</div> <div style="font-weight: bold; color: var(--light);">Codeforces</div> <div style="font-size: 0.8rem; opacity: 0.6;">Competitive Programming</div> </div> </a>
-
-<a href="[https://www.nodeloc.com/u/FrankWkd](https://www.google.com/search?q=https://www.nodeloc.com/u/FrankWkd)" target="_blank" style="text-decoration: none;"> <div style="background: rgba(108, 92, 231, 0.1); border: 1px solid rgba(108, 92, 231, 0.2); border-radius: 12px; padding: 1.5rem; text-align: center; transition: all 0.3s ease;" onmouseover="this.style.borderColor='#6c5ce7'; this.style.boxShadow='0 0 20px rgba(108, 92, 231, 0.2)';" onmouseout="this.style.borderColor='rgba(108, 92, 231, 0.2)'; this.style.boxShadow='none';"> <div style="font-size: 2rem; margin-bottom: 0.5rem;">🌐</div> <div style="font-weight: bold; color: var(--light);">Nodeloc</div> <div style="font-size: 0.8rem; opacity: 0.6;">Community Member</div> </div> </a>
-
-</div>
-
+- Email: master@frankwkd2026.dpdns.org
+- Github: [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)(FrankWkd-Pro)](https://github.com/FrankWkd-Pro) 
+- Telegram: tg@frankwkd_pro
 ---
-
-### 📩 和我联系 (Contact Me)
-
-> [!tip] **保持沟通** 无论你是想讨论 Linux Mint 的部署方案，还是关于 Gemini/Anti-Gravity AI 的开发，欢迎通过以下方式找到我。
-
-<div style="background: var(--highlight); border-radius: 12px; padding: 1.5rem; border: 1px dashed var(--secondary);"> <ul style="list-style: none; padding: 0; margin: 0;"> <li style="margin-bottom: 0.8rem;"> <strong>📧 Email:</strong> <a href="mailto:frank@example.com">master@frankwkd2026.dpdns.org</a>  </li> <li style="margin-bottom: 0.8rem;"> <strong>🤖 Telegram:</strong> <a href="[https://t.me/FrankWkd](https://www.google.com/search?q=https://t.me/FrankWkd)">@frankwkd_pro</a> (即时通讯) </li> <li> <strong></strong> <code></code> </li> </ul> </div>
