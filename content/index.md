@@ -12,6 +12,7 @@ title: About me
 
 ---
 # Welcome to My Blog!🎉
+![[attachments/Pasted image 20260206093915.png]]
 ## 🤔 About Me
 - Student & Developer
 - 喜欢研究新事物，热衷于折腾！
@@ -52,3 +53,4 @@ title: About me
 - Github: [FrankWkd-Pro](https://github.com/FrankWkd-Pro)
 - Telegram: tg@frankwkd_pro
 ---
+[![D:OutwardlyVerse profile views](https://u8views.com/api/v1/github/profiles/218350533/views/day-week-month-total-count.svg)](https://u8views.com/github/FrankWkd-Pro)
