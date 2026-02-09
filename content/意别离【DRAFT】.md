@@ -6,6 +6,19 @@ tags:
 licenseName: CC-BY-NC-SA 4.0
 draft: true
 ---
+* 🛵 **CDK Management System**: 基于 Cloudflare Worker 的分发系统。
+* 🤖 **Telegram Gemini Bot**: 基于 GeminiAPI 自动化响应的 AI 机器人。
+* 🖥️ **Linux Setup**: 针对旧版 iMac x64 的 Linux Mint 深度定制。
+* 📝 [**Mail**](https://frankwkd2026.dpdns.org): 基于开源项目二次开发的临时邮箱系统
+* ✂️ [Pastebin](https://paste.frankwkd2026.dpdns.org):  加密 markdown 剪贴板
+* 👉 [Url Shorten](https://u.frankwkd2026.dpdns.org): 短链接生成器。
+* 📊 `Private`[Github Download Agent](https://gh-agent.frankwkd2026.dpdns.org/): Github 文件下载 CDN 加速
+* 🕸️ `Private`[CF Edge Node](https://sub.frankwkd2026.dpdns.org/): 利用 CF 边缘节点代理流量并声生成节点
+* 🔮 `Private`[Sublink Pro](http://35.212.138.172:8000/dashboard/default): 基于开源项目二次开发的订阅管理系统&节点分发系统，由 GCP 托管。
+* 🛡️ [Website Proxy](https://proxy.frankwkd2026.dpdns.org/): 使用 Cloudflare Workers 进行网站反代
+* 👀 `Private`[云服务器探针](https://status.frankwkd2026.dpdns.org): 利用 Beszel 框架开发的探针&资源监控，使用 Cloudflared Tunnel 进行端口转发。
+* 📜 [Personal Blog](https://blog.frankwkd2026.dpdns.org): 基于 Quartz 4 框架开发的博客网站
+
 $\textit{prologue}$
 
 为手写信的电子版。

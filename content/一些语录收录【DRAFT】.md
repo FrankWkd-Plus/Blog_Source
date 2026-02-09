@@ -2,6 +2,7 @@
 title: 一些语录收录
 date: 2025-08-01
 licenseName: CC-BY-NC-SA 4.0
+draft: true
 ---
 "爱我所爱，行我所行，无问西东。"
 
