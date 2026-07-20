@@ -11,6 +11,7 @@ title: About me
   
 ---
 # Welcome to My Blog!  ![[attachments/Pasted image 20260206093915.png]]  
+# [我的个人主页Website](https://my.outwardly.dpdns.org/about/)
 
 > [!tip] 📔 写在前面
 > - 请有话直说、一定要及时沟通🤍（本人可i可e）  
